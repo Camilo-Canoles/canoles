@@ -43,6 +43,6 @@ public class Actividad {
         }else{
             System.out.println("Es una mujer");
         }
-  }
+}
     
 }
