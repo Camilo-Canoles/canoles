@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "id": "12345678",
+            "name": "camilo canoles",
+            "username": "canoles",
+            "password": "321",
+            "email": "camilocanoles30@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "987456",
+            "name": "Dario Mejia2",
+            "username": "dmejia",
+            "password": "123",
+            "email": "dmejia@test.com",
+            "role": "Vendedor"
+        },
+        {
+            "id": "198291829",
+            "name": "Juan Castro",
+            "username": "jcastro",
+            "password": "123",
+            "email": "jcastro@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "123456789",
+            "name": "camilo",
+            "username": "cam",
+            "password": "123",
+            "email": "camilo@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "554",
+            "name": "juan",
+            "username": "ju",
+            "password": "12",
+            "email": "juan@pechiche.pechichon",
+            "role": "Vendedor"
+        }
+    ]
+}
